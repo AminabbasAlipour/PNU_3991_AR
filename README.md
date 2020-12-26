@@ -3,12 +3,12 @@
 ### امین عباس   علی پور
  
 ---
-- [github](https://github.com/AminabbasAlipour)
+- [Github](https://github.com/AminabbasAlipour)
 - [PNU_3991_AR](https://github.com/AminabbasAlipour/PNU_3991_AR.git)
-- [resume](https://github.com/AminabbasAlipour/AminabbasAlipour.github.io.git)
+- [Resume](https://github.com/AminabbasAlipour/AminabbasAlipour.github.io.git)
 - [SOP](https://github.com/AminabbasAlipour/sop.git) 
-- [javascript Certificate](gs.pdf)
-- [jlord patchwork](Jlord.usPatchWork.png)
+- [JavaScript Certificate](gs.pdf)
+- [Jlord Patchwork](Jlord.usPatchWork.png)
   
 ------------------
 
