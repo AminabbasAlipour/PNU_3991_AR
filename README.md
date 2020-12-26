@@ -7,7 +7,7 @@
 - [PNU_3991_AR](https://github.com/AminabbasAlipour/PNU_3991_AR.git)
 - [resume](https://github.com/AminabbasAlipour/AminabbasAlipour.github.io.git)
 - [SOP](https://github.com/AminabbasAlipour/sop.git) 
-- [javascript Certificate](js.pdf)
+- [javascript Certificate](gs.pdf)
 - [jlord patchwork](Jlord.usPatchWork.png)
   
 ------------------
