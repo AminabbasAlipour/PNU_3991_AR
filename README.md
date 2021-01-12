@@ -5,8 +5,8 @@
 ---
 - [Github](https://github.com/AminabbasAlipour)
 - [PNU_3991_AR](https://github.com/AminabbasAlipour/PNU_3991_AR.git)
-- [Resume](https://github.com/AminabbasAlipour/AminabbasAlipour.github.io.git)
-- [SOP](https://github.com/AminabbasAlipour/sop.git) 
+- [Resume](https://aminabbasalipour.github.io/)
+- [SOP](https://aminabbasalipour.github.io/sop/) 
 - [JavaScript Certificate](gs.pdf)
 - [Jlord Patchwork](Jlord.usPatchWork.png)
   
