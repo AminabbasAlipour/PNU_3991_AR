@@ -19,7 +19,7 @@
 - [خلاصه ارزیابی بخش عمومی](AA_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس کارشناسی
- [خلاصه ارزیابی درس نظریه زبان و ماشین](https://github.com/AminabbasAlipour/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/AA_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس نظریه زبان و ماشین](https://github.com/AminabbasAlipour/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/AA_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
  
  ------
 
