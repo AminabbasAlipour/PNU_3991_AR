@@ -4,13 +4,6 @@
 
 ### امین عباس   علی پور
 
- > ارزیابی ها
-##  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](AA_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](AA_GeneralSection_CheckList_AR_3991.pdf)
-
-##  بخش دروس کارشناسی
- [خلاصه ارزیابی درس نظریه زبان و ماشین]()
 ---
 - [Github](https://github.com/AminabbasAlipour)
 - [PNU_3991_AR](https://github.com/AminabbasAlipour/PNU_3991_AR.git)
@@ -20,6 +13,16 @@
 - [Jlord Patchwork](Jlord.usPatchWork.png)
   
 ------------------
+ > ارزیابی ها
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](AA_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](AA_GeneralSection_CheckList_AR_3991.pdf)
+
+##  بخش دروس کارشناسی
+ [خلاصه ارزیابی درس نظریه زبان و ماشین]()
+ 
+ ------
+
 ## Winter Semester Courses 1399/2020
 ## دروس کارشناسی
 1111571_01 جبرخطی کاربردی
